@@ -1,0 +1,10 @@
+/* Bio Container */
+.hms-author-bio {
+  background: #00274c;
+  color: #fff;
+  padding: 1em;
+}
+
+.hms-author-name {
+  font-size: 1.2em;
+}
